@@ -1,5 +1,5 @@
 #Hi👋:
-![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
+<br>![hello](https://media.giphy.com/media/noyBeNjH4nbtXV5ZLA/giphy.gif)<br>
 
 # 💫 About Me:
 - 🔭 I’m currently working on **ReactJS**<br><br>- 🌱 I’m currently learning **Mern stack**<br><br>- 👯 I’m looking to collaborate on **hackathons**<br><br>- 🤝 I’m looking for help with **Internships.**<br><br>- 👨‍💻 Most of my projects are available at [Currently working on it]<br><br>- 💬 Ask me about **CSS,JavaScript,Java**<br><br>- 📫 How to reach me **https://www.linkedin.com/in/agrawalaanuj/**<br><br>- ⚡ Fun fact **Humans are the only animals that blush.**
